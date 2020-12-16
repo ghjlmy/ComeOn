@@ -1,5 +1,6 @@
 <template>
   <div id="nav">
+    <p>我呵呵呵很快就霍山科技活动山</p>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
